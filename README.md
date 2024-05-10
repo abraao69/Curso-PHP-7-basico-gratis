@@ -1,4 +1,4 @@
-# Curso Laravel de PHP 7 Grátis
+# Curso  de PHP 7 Grátis
 
 <hr>
 <p align="center">
