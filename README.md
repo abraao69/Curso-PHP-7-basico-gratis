@@ -1,4 +1,4 @@
-# Curso  de PHP 7 Grátis
+# Curso  de PHP 7
 
 <hr>
 <p align="center">
